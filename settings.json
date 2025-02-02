@@ -1,0 +1,15 @@
+{
+  "window": {
+    "width": 1920,
+    "height": 1080,
+    "fullscreen": true,
+    "vsync": true
+  },
+  "controls": {
+    "left": "a",
+    "right": "d",
+    "jump": "w",
+    "dash": "space",
+    "full jump release": true
+  }
+}
